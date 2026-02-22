@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Adem Furkan Ata 👋
 
-<!--
-**AdemFurkanATA/AdemFurkanATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full-Stack Developer (Java Focused)
 
-Here are some ideas to get you started:
+I am a Computer Engineering student building strong software foundations with a focus on backend development using Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about writing clean, scalable and maintainable code — not just code that works.
+
+Currently developing full-stack projects while deepening my understanding of system design and software architecture.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- Building structured full-stack applications
+- Strengthening Java backend fundamentals
+- Improving Data Structures & Algorithms knowledge
+- Learning React Native for mobile development
+- Maintaining an active and disciplined GitHub workflow
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**  
+Java • REST APIs • SQL • MySQL
+
+**Frontend**  
+React • JavaScript • HTML • CSS
+
+**Mobile (Learning)**  
+React Native
+
+**Tools & Workflow**  
+Git • GitHub • IntelliJ IDEA • VSCode
+
+---
+
+## 📈 Development Philosophy
+
+- Think before coding
+- Design before implementing
+- Write scalable architecture
+- Build production-ready projects
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-level full-stack systems
+- Improve system design thinking
+- Deploy real-world applications
+- Contribute to open-source projects
+
+---
+
+## 📫 Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/adem-furkan-ata-0882bb383/
+
+Email:  
+ademfurkanata@gmail.com
+
+---
