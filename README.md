@@ -1,6 +1,6 @@
 # Hi, I'm Adem Furkan Ata 👋
 
-## 💻 Full-Stack Developer (Java Focused)
+## 💻 Full-Stack Developer
 
 I am a Computer Engineering student building strong software foundations with a focus on backend development using Java.
 
